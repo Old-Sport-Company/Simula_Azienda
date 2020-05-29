@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author hu.alessio
+ * @author Old Sport Company
  */
 public class Manager {
 

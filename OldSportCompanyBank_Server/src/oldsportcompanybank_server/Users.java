@@ -10,7 +10,7 @@ import java.net.*;
 
 /**
  *
- * @author hu.alessio
+ * @author Old Sport Company
  */
 public class Users implements Runnable, InviaMessaggio, RiceviMessaggio {
 

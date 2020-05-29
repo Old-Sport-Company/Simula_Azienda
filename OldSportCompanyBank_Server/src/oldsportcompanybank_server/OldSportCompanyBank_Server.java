@@ -11,7 +11,7 @@ import java.net.Socket;
 
 /**
  *
- * @author HU
+ * @author Old Sport Company
  */
 public class OldSportCompanyBank_Server {
 
